@@ -1,0 +1,11 @@
+﻿l_russian:
+# Opinion modifiers
+ opinion_very_pleased_pilgrims:0 "Очень довольные поломники"
+ opinion_pleased_pilgrims:0 "Довольные поломники"
+ opinion_bad_hosts:0 "Плохие Хозяева"
+ opinion_assassins:0 "Терористы"
+ opinion_accused_of_terrorism:0 "Обвиненные в терроризме"
+# Pop modifier  
+ strange_guests:0 "Странные гости"
+ terrorism:0 "Терроризм"
+ 
